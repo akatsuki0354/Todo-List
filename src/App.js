@@ -68,7 +68,7 @@ function App() {
   return (
     <div className="main">
       <div className={style.container} style={{marginTop: '250px', border: 'solid 3px aqua'}} >
-        <h3 className={style.heading}>List</h3>
+        <h3 className={style.heading}>List App</h3>
         <form onSubmit={createTodo} className={style.form}>
          
           <input
