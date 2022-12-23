@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button{
+    background-color: black;
+    padding: 15px;
+    border-radius: 10px;
+    color: aqua;
+    border: solid 3px aqua;
+
+}
+
+input{
+    background-color: black;
+    width: 85%;
+    border: solid 3px aqua;
+    border-radius: 10px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+
+
+.main{
+    background-color: black;
+    height: 100vh;
+}
